@@ -18,3 +18,5 @@ function typeWriter(elemento) {
 
   }
   
+
+ 
