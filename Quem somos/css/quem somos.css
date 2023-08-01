@@ -120,11 +120,22 @@ header {
         display: block;
     }
 }
+/*Mesagem de inico*/
+h1 {
+   margin: auto;
+   margin-top: 25px;
+    text-align: center;
+   font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+  }
 
+  /* Fim Mesagem de inico*/
+
+  
 
   /* Cards */
-
-
+  
  /*Fim Cards*/
  
 /*Footer*/ 

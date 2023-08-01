@@ -8,3 +8,7 @@ function menuShow() {
         document.querySelector('.icon').src = "../../tela-Inicial/img/close_white_36dp.svg";
     }
 }
+
+
+
+ 
