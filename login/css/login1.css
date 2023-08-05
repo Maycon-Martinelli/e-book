@@ -7,7 +7,7 @@
 
 header {
     background-color: #464646;
-    box-shadow: 0px 3px 10px #464646;
+    box-shadow: 0px 3px 10px #000000
 }
 
 .nav-bar {
@@ -73,6 +73,7 @@ header {
 @media screen and (max-width: 730px) {
     .nav-bar {
         padding: 1.5rem 4rem;
+        background-color: #494949;
     }
     .nav-item {
         display: none;
